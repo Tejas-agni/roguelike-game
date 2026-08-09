@@ -16,7 +16,9 @@ out/
 *.user
 *.suo
 
-# Antigravity & System files
+# Sub-projects
+glass-exam/
+
 .gemini/
 .DS_Store
 Thumbs.db
