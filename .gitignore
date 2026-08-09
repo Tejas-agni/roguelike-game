@@ -1,0 +1,22 @@
+# Build and binary directories
+build/
+bin/
+out/
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+
+# IDE and Editor files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Antigravity & System files
+.gemini/
+.DS_Store
+Thumbs.db
